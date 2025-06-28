@@ -16,7 +16,8 @@ if (typeof y === "string") {
 
 
 let n: null = null;
-let u: undefined = undefined;
+let u: undefined = undefined;+
+
 
 
 The as keyword is used to tell the compiler the expected type of a variable when you know better than it.

@@ -138,7 +138,7 @@ Create a New Array with Squares of Each Number ::
 const number = [1,2,3,4,5,6]
 const square = []
 
-for (i=0;i<number.length;i++){
+for (let i=0;i<number.length;i++){
   square.push(number[i]*number[i])
 }
 

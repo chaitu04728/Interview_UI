@@ -1,0 +1,27 @@
+Next.js gives me the flexibility of React, but with added benefits like server-side rendering, 
+built-in API routes, and SEO optimization. This helps in building production-grade applications faster and more efficiently.
+
+MongoDB pairs well with JavaScript because of its document-based, JSON-like structure — it's a natural fit for 
+handling dynamic data without complex joins or rigid schemas. It speeds up development and works well in modern microservice architectures.
+
+Node.js allows me to use JavaScript end-to-end — on both frontend and backend — which reduces context switching and 
+improves developer productivity. It also performs exceptionally well with non-blocking I/O, which is great for handling real-time applications and APIs
+
+nextjs 12 version with page based routing
+next js 13 with app based routing
+node js 20
+MongoDB v6
+
+Next.js + Node.js + MongoDB stack is simply faster and more efficient — with less boilerplate and quicker time to market
+
+Transpilers :
+A transpiler like Babel converts modern JavaScript (like ES6+) or TypeScript into backward-compatible JavaScript that can run in older browsers.
+It ensures that cutting-edge code works across different environments
+
+Bundlers :
+A bundler like Webpack, Vite, or Parcel takes all your JS, CSS, images, and modules and combines them into one or more optimized files.
+It resolves imports, dependencies, and helps with code splitting.
+
+Minifiers :
+A minifier like Terser or UglifyJS reduces the size of the final JavaScript bundle by removing whitespace, comments,
+and shortening variable names — which improves load time and performance
